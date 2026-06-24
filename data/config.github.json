@@ -139,7 +139,7 @@
     "delivery": "summary",
     "overview_position": "first",
     "platform": "feishu",
-    "layout": "card",
+    "layout": "collapsible",
     "fallback_layout": "markdown",
     "languages": [
       "zh",
